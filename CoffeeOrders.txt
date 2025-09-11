@@ -1,0 +1,6 @@
+Name: Sal Joe Address: Hawaii Phone Number: 446-7789
+Drink: Latte Price: $3.0 Calories: 200 Shots: 2 Milk: oat
+Drink: Frappe Price: $7.5 Calories: 500 Shots: 5 Milk: almond
+Payment: Premium customers may pay with card, cash, ApplePay, or CashApp.
+You receive 10% off your order.
+
